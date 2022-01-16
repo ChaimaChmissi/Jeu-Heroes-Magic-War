@@ -1,0 +1,1 @@
+|    NUM UNITE    |       TYPE      |      SANTE      |     ATTAQUE     |     DEFENCE     |      DEGATS     |    MOUVEMENTS   |       PRIX      |
